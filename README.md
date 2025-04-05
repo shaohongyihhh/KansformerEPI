@@ -1,4 +1,3 @@
-# KansformerEPI
 # KansformerEPI: A Deep Learning Framework Integrating KAN and Transformer for Predicting Enhancer-Promoter Interactions
 
 The datasets and codes are available at https://github.com/shaohongyihhh/KansformerEPI.
